@@ -1,0 +1,854 @@
+2025-05-10 21:31:58,566 - DEBUG - Building SSL context
+2025-05-10 21:31:58,607 - DEBUG - Switching to SSL
+2025-05-10 21:31:58,614 - DEBUG - SSL has been enabled
+2025-05-10 21:31:58,615 - DEBUG - Starting authorization phase
+2025-05-10 21:31:58,615 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-10 21:31:58,616 - INFO - package: mysql.connector.plugins
+2025-05-10 21:31:58,616 - INFO - plugin_name: caching_sha2_password
+2025-05-10 21:31:58,616 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-10 21:31:58,617 - DEBUG - Exchanging further packets
+2025-05-10 21:31:58,617 - DEBUG - caching_sha2_password completed succesfully
+2025-05-10 21:31:58,645 - INFO - Serving on http://0.0.0.0:5000
+2025-05-10 21:32:09,952 - INFO - Home page accessed
+2025-05-10 21:54:33,453 - DEBUG - Building SSL context
+2025-05-10 21:54:33,497 - DEBUG - Switching to SSL
+2025-05-10 21:54:33,532 - DEBUG - SSL has been enabled
+2025-05-10 21:54:33,532 - DEBUG - Starting authorization phase
+2025-05-10 21:54:33,532 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-10 21:54:33,533 - INFO - package: mysql.connector.plugins
+2025-05-10 21:54:33,533 - INFO - plugin_name: caching_sha2_password
+2025-05-10 21:54:33,533 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-10 21:54:33,536 - DEBUG - Exchanging further packets
+2025-05-10 21:54:33,551 - DEBUG - caching_sha2_password completed succesfully
+2025-05-10 21:54:33,623 - INFO - Serving on http://0.0.0.0:5000
+2025-05-10 21:57:59,502 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-10 21:57:59,502 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-10 21:57:59,532 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-10 22:05:10,421 - DEBUG - Building SSL context
+2025-05-10 22:05:10,473 - DEBUG - Switching to SSL
+2025-05-10 22:05:10,509 - DEBUG - SSL has been enabled
+2025-05-10 22:05:10,510 - DEBUG - Starting authorization phase
+2025-05-10 22:05:10,510 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-10 22:05:10,510 - INFO - package: mysql.connector.plugins
+2025-05-10 22:05:10,511 - INFO - plugin_name: caching_sha2_password
+2025-05-10 22:05:10,511 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-10 22:05:10,515 - DEBUG - Exchanging further packets
+2025-05-10 22:05:10,530 - DEBUG - caching_sha2_password completed succesfully
+2025-05-10 22:05:10,579 - INFO - Successfully connected to the MySQL database.
+2025-05-10 22:05:10,597 - INFO - Serving on http://0.0.0.0:5000
+2025-05-10 22:05:40,575 - DEBUG - Building SSL context
+2025-05-10 22:05:40,612 - DEBUG - Switching to SSL
+2025-05-10 22:05:40,619 - DEBUG - SSL has been enabled
+2025-05-10 22:05:40,619 - DEBUG - Starting authorization phase
+2025-05-10 22:05:40,619 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-10 22:05:40,620 - INFO - package: mysql.connector.plugins
+2025-05-10 22:05:40,620 - INFO - plugin_name: caching_sha2_password
+2025-05-10 22:05:40,620 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-10 22:05:40,621 - DEBUG - Exchanging further packets
+2025-05-10 22:05:40,621 - DEBUG - caching_sha2_password completed succesfully
+2025-05-10 22:05:40,622 - INFO - Successfully connected to the MySQL database.
+2025-05-10 22:05:40,628 - INFO - Serving on http://0.0.0.0:5000
+2025-05-10 22:05:43,010 - INFO - Home page accessed
+2025-05-10 22:08:28,817 - DEBUG - Building SSL context
+2025-05-10 22:08:28,866 - DEBUG - Switching to SSL
+2025-05-10 22:08:28,873 - DEBUG - SSL has been enabled
+2025-05-10 22:08:28,873 - DEBUG - Starting authorization phase
+2025-05-10 22:08:28,874 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-10 22:08:28,874 - INFO - package: mysql.connector.plugins
+2025-05-10 22:08:28,874 - INFO - plugin_name: caching_sha2_password
+2025-05-10 22:08:28,875 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-10 22:08:28,876 - DEBUG - Exchanging further packets
+2025-05-10 22:08:28,876 - DEBUG - caching_sha2_password completed succesfully
+2025-05-10 22:08:28,880 - INFO - Successfully connected to the MySQL database.
+2025-05-10 22:08:28,891 - INFO - Serving on http://0.0.0.0:5000
+2025-05-10 22:08:32,712 - INFO - Home page accessed
+2025-05-10 22:15:17,045 - DEBUG - Building SSL context
+2025-05-10 22:15:17,094 - DEBUG - Switching to SSL
+2025-05-10 22:15:17,100 - DEBUG - SSL has been enabled
+2025-05-10 22:15:17,100 - DEBUG - Starting authorization phase
+2025-05-10 22:15:17,101 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-10 22:15:17,101 - INFO - package: mysql.connector.plugins
+2025-05-10 22:15:17,101 - INFO - plugin_name: caching_sha2_password
+2025-05-10 22:15:17,101 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-10 22:15:17,102 - DEBUG - Exchanging further packets
+2025-05-10 22:15:17,102 - DEBUG - caching_sha2_password completed succesfully
+2025-05-10 22:15:17,104 - INFO - Successfully connected to the MySQL database.
+2025-05-10 22:15:17,109 - INFO - Serving on http://0.0.0.0:5000
+2025-05-10 22:16:29,722 - DEBUG - Building SSL context
+2025-05-10 22:16:29,766 - DEBUG - Switching to SSL
+2025-05-10 22:16:29,773 - DEBUG - SSL has been enabled
+2025-05-10 22:16:29,773 - DEBUG - Starting authorization phase
+2025-05-10 22:16:29,774 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-10 22:16:29,774 - INFO - package: mysql.connector.plugins
+2025-05-10 22:16:29,774 - INFO - plugin_name: caching_sha2_password
+2025-05-10 22:16:29,775 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-10 22:16:29,775 - DEBUG - Exchanging further packets
+2025-05-10 22:16:29,777 - DEBUG - caching_sha2_password completed succesfully
+2025-05-10 22:16:29,778 - INFO - Successfully connected to the MySQL database.
+2025-05-10 22:16:29,785 - INFO - Serving on http://0.0.0.0:5000
+2025-05-10 22:27:47,436 - DEBUG - Building SSL context
+2025-05-10 22:27:47,488 - DEBUG - Switching to SSL
+2025-05-10 22:27:47,518 - DEBUG - SSL has been enabled
+2025-05-10 22:27:47,519 - DEBUG - Starting authorization phase
+2025-05-10 22:27:47,519 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-10 22:27:47,520 - INFO - package: mysql.connector.plugins
+2025-05-10 22:27:47,520 - INFO - plugin_name: caching_sha2_password
+2025-05-10 22:27:47,521 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-10 22:27:47,525 - DEBUG - Exchanging further packets
+2025-05-10 22:27:47,539 - DEBUG - caching_sha2_password completed succesfully
+2025-05-10 22:27:47,577 - INFO - Successfully connected to the MySQL database.
+2025-05-10 22:27:47,589 - INFO - Serving on http://0.0.0.0:5000
+2025-05-10 22:34:13,467 - DEBUG - Building SSL context
+2025-05-10 22:34:13,507 - DEBUG - Switching to SSL
+2025-05-10 22:34:13,512 - DEBUG - SSL has been enabled
+2025-05-10 22:34:13,512 - DEBUG - Starting authorization phase
+2025-05-10 22:34:13,512 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-10 22:34:13,512 - INFO - package: mysql.connector.plugins
+2025-05-10 22:34:13,512 - INFO - plugin_name: caching_sha2_password
+2025-05-10 22:34:13,513 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-10 22:34:13,513 - DEBUG - Exchanging further packets
+2025-05-10 22:34:13,514 - DEBUG - caching_sha2_password completed succesfully
+2025-05-10 22:34:13,516 - INFO - Successfully connected to the MySQL database.
+2025-05-10 22:34:13,524 - INFO - Serving on http://0.0.0.0:5000
+2025-05-10 22:36:34,320 - DEBUG - Building SSL context
+2025-05-10 22:36:34,367 - DEBUG - Switching to SSL
+2025-05-10 22:36:34,375 - DEBUG - SSL has been enabled
+2025-05-10 22:36:34,376 - DEBUG - Starting authorization phase
+2025-05-10 22:36:34,376 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-10 22:36:34,377 - INFO - package: mysql.connector.plugins
+2025-05-10 22:36:34,377 - INFO - plugin_name: caching_sha2_password
+2025-05-10 22:36:34,377 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-10 22:36:34,378 - DEBUG - Exchanging further packets
+2025-05-10 22:36:34,378 - DEBUG - caching_sha2_password completed succesfully
+2025-05-10 22:36:34,390 - INFO - Serving on http://0.0.0.0:5000
+2025-05-10 22:38:31,059 - DEBUG - Building SSL context
+2025-05-10 22:38:31,104 - DEBUG - Switching to SSL
+2025-05-10 22:38:31,108 - DEBUG - SSL has been enabled
+2025-05-10 22:38:31,109 - DEBUG - Starting authorization phase
+2025-05-10 22:38:31,109 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-10 22:38:31,109 - INFO - package: mysql.connector.plugins
+2025-05-10 22:38:31,109 - INFO - plugin_name: caching_sha2_password
+2025-05-10 22:38:31,110 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-10 22:38:31,110 - DEBUG - Exchanging further packets
+2025-05-10 22:38:31,110 - DEBUG - caching_sha2_password completed succesfully
+2025-05-10 22:38:31,120 - INFO - Serving on http://0.0.0.0:5000
+2025-05-10 22:40:48,932 - DEBUG - Building SSL context
+2025-05-10 22:40:48,977 - DEBUG - Switching to SSL
+2025-05-10 22:40:48,982 - DEBUG - SSL has been enabled
+2025-05-10 22:40:48,982 - DEBUG - Starting authorization phase
+2025-05-10 22:40:48,983 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-10 22:40:48,983 - INFO - package: mysql.connector.plugins
+2025-05-10 22:40:48,983 - INFO - plugin_name: caching_sha2_password
+2025-05-10 22:40:48,983 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-10 22:40:48,984 - DEBUG - Exchanging further packets
+2025-05-10 22:40:48,984 - DEBUG - caching_sha2_password completed succesfully
+2025-05-10 22:40:48,985 - INFO - Successfully connected to the MySQL database.
+2025-05-10 22:40:48,985 - INFO - Successfully connected to the MySQL database.
+2025-05-10 22:40:48,987 - INFO - Serving on http://0.0.0.0:5000
+2025-05-10 22:41:04,179 - INFO - Home page accessed
+2025-05-10 22:50:19,409 - DEBUG - Building SSL context
+2025-05-10 22:50:19,464 - DEBUG - Switching to SSL
+2025-05-10 22:50:19,473 - DEBUG - SSL has been enabled
+2025-05-10 22:50:19,475 - DEBUG - Starting authorization phase
+2025-05-10 22:50:19,475 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-10 22:50:19,475 - INFO - package: mysql.connector.plugins
+2025-05-10 22:50:19,475 - INFO - plugin_name: caching_sha2_password
+2025-05-10 22:50:19,476 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-10 22:50:19,476 - DEBUG - Exchanging further packets
+2025-05-10 22:50:19,477 - DEBUG - caching_sha2_password completed succesfully
+2025-05-10 22:50:19,480 - INFO - Successfully connected to the MySQL database.
+2025-05-10 22:50:19,485 - INFO - Successfully connected to the MySQL database.
+2025-05-10 22:50:19,487 - INFO - Serving on http://0.0.0.0:5000
+2025-05-10 22:50:53,709 - DEBUG - Building SSL context
+2025-05-10 22:50:53,752 - DEBUG - Switching to SSL
+2025-05-10 22:50:53,757 - DEBUG - SSL has been enabled
+2025-05-10 22:50:53,758 - DEBUG - Starting authorization phase
+2025-05-10 22:50:53,758 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-10 22:50:53,759 - INFO - package: mysql.connector.plugins
+2025-05-10 22:50:53,759 - INFO - plugin_name: caching_sha2_password
+2025-05-10 22:50:53,759 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-10 22:50:53,759 - DEBUG - Exchanging further packets
+2025-05-10 22:50:53,760 - DEBUG - caching_sha2_password completed succesfully
+2025-05-10 22:50:53,761 - INFO - Successfully connected to the MySQL database.
+2025-05-10 22:50:53,762 - INFO - Successfully connected to the MySQL database.
+2025-05-10 22:50:53,764 - INFO - Serving on http://0.0.0.0:5000
+2025-05-10 22:51:14,202 - INFO - Home page accessed
+2025-05-11 15:17:33,977 - DEBUG - Building SSL context
+2025-05-11 15:17:34,114 - DEBUG - Switching to SSL
+2025-05-11 15:17:34,178 - DEBUG - SSL has been enabled
+2025-05-11 15:17:34,179 - DEBUG - Starting authorization phase
+2025-05-11 15:17:34,180 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 15:17:34,180 - INFO - package: mysql.connector.plugins
+2025-05-11 15:17:34,180 - INFO - plugin_name: caching_sha2_password
+2025-05-11 15:17:34,180 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-11 15:17:34,186 - DEBUG - Exchanging further packets
+2025-05-11 15:17:34,357 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 15:17:34,385 - INFO - Successfully connected to the MySQL database.
+2025-05-11 15:17:34,387 - INFO - Successfully connected to the MySQL database.
+2025-05-11 15:17:34,393 - INFO - Serving on http://0.0.0.0:5000
+2025-05-11 15:20:37,203 - INFO - Home page accessed
+2025-05-11 15:39:01,474 - DEBUG - Building SSL context
+2025-05-11 15:39:01,594 - DEBUG - Switching to SSL
+2025-05-11 15:39:01,653 - DEBUG - SSL has been enabled
+2025-05-11 15:39:01,654 - DEBUG - Starting authorization phase
+2025-05-11 15:39:01,654 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 15:39:01,655 - INFO - package: mysql.connector.plugins
+2025-05-11 15:39:01,655 - INFO - plugin_name: caching_sha2_password
+2025-05-11 15:39:01,656 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-11 15:39:01,658 - DEBUG - Exchanging further packets
+2025-05-11 15:39:01,664 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 15:39:01,690 - INFO - Successfully connected to the MySQL database.
+2025-05-11 15:39:01,690 - INFO - Successfully connected to the MySQL database.
+2025-05-11 15:39:01,695 - INFO - Serving on http://0.0.0.0:5000
+2025-05-11 15:39:08,884 - INFO - URL: /static/<path:filename> -> static
+2025-05-11 15:39:08,884 - INFO - URL: / -> index
+2025-05-11 15:39:08,885 - INFO - URL: /student_register -> student_register
+2025-05-11 15:39:08,885 - INFO - URL: /student_login -> student_login
+2025-05-11 15:39:08,885 - INFO - URL: /student_dashboard -> student_dashboard
+2025-05-11 15:39:08,886 - INFO - URL: /teacher_login -> teacher_login
+2025-05-11 15:39:08,886 - INFO - URL: /teacher_dashboard -> teacher_dashboard
+2025-05-11 15:42:05,443 - DEBUG - Building SSL context
+2025-05-11 15:42:05,517 - DEBUG - Switching to SSL
+2025-05-11 15:42:05,526 - DEBUG - SSL has been enabled
+2025-05-11 15:42:05,526 - DEBUG - Starting authorization phase
+2025-05-11 15:42:05,526 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 15:42:05,526 - INFO - package: mysql.connector.plugins
+2025-05-11 15:42:05,527 - INFO - plugin_name: caching_sha2_password
+2025-05-11 15:42:05,528 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-11 15:42:05,529 - DEBUG - Exchanging further packets
+2025-05-11 15:42:05,529 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 15:42:05,531 - INFO - Successfully connected to the MySQL database.
+2025-05-11 15:42:05,532 - INFO - Successfully connected to the MySQL database.
+2025-05-11 15:42:05,537 - INFO - Serving on http://0.0.0.0:5000
+2025-05-11 15:42:10,597 - INFO - URL: /static/<path:filename> -> static
+2025-05-11 15:42:10,597 - INFO - URL: / -> index
+2025-05-11 15:42:10,598 - INFO - URL: /student_register -> student_register
+2025-05-11 15:42:10,600 - INFO - URL: /student_login -> student_login
+2025-05-11 15:42:10,600 - INFO - URL: /student_dashboard -> student_dashboard
+2025-05-11 15:42:10,601 - INFO - URL: /teacher_login -> teacher_login
+2025-05-11 15:42:10,602 - INFO - URL: /teacher_dashboard -> teacher_dashboard
+2025-05-11 15:44:55,960 - DEBUG - Building SSL context
+2025-05-11 15:44:56,024 - DEBUG - Switching to SSL
+2025-05-11 15:44:56,030 - DEBUG - SSL has been enabled
+2025-05-11 15:44:56,030 - DEBUG - Starting authorization phase
+2025-05-11 15:44:56,031 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 15:44:56,031 - INFO - package: mysql.connector.plugins
+2025-05-11 15:44:56,032 - INFO - plugin_name: caching_sha2_password
+2025-05-11 15:44:56,032 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-11 15:44:56,032 - DEBUG - Exchanging further packets
+2025-05-11 15:44:56,042 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 15:44:56,044 - INFO - Successfully connected to the MySQL database.
+2025-05-11 15:44:56,045 - INFO - Successfully connected to the MySQL database.
+2025-05-11 15:44:56,049 - INFO - Serving on http://0.0.0.0:5000
+2025-05-11 15:45:30,237 - INFO - URL: /static/<path:filename> -> static
+2025-05-11 15:45:30,241 - INFO - URL: / -> index
+2025-05-11 15:45:30,256 - INFO - URL: /student_register -> student_register
+2025-05-11 15:45:30,266 - INFO - URL: /student_login -> student_login
+2025-05-11 15:45:30,272 - INFO - URL: /student_dashboard -> student_dashboard
+2025-05-11 15:45:30,275 - INFO - URL: /teacher_login -> teacher_login
+2025-05-11 15:45:30,288 - INFO - URL: /teacher_dashboard -> teacher_dashboard
+2025-05-11 15:57:25,464 - DEBUG - Building SSL context
+2025-05-11 15:57:25,524 - DEBUG - Switching to SSL
+2025-05-11 15:57:25,531 - DEBUG - SSL has been enabled
+2025-05-11 15:57:25,532 - DEBUG - Starting authorization phase
+2025-05-11 15:57:25,532 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 15:57:25,532 - INFO - package: mysql.connector.plugins
+2025-05-11 15:57:25,533 - INFO - plugin_name: caching_sha2_password
+2025-05-11 15:57:25,533 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-11 15:57:25,534 - DEBUG - Exchanging further packets
+2025-05-11 15:57:25,534 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 15:57:25,546 - INFO - Successfully connected to the MySQL database.
+2025-05-11 15:57:25,547 - INFO - Successfully connected to the MySQL database.
+2025-05-11 15:57:25,549 - INFO - Serving on http://0.0.0.0:5000
+2025-05-11 15:57:30,078 - INFO - URL: /static/<path:filename> -> static
+2025-05-11 15:57:30,078 - INFO - URL: / -> index
+2025-05-11 15:57:30,078 - INFO - URL: /student_register -> student_register
+2025-05-11 15:57:30,080 - INFO - URL: /student_login -> student_login
+2025-05-11 15:57:30,080 - INFO - URL: /student_dashboard -> student_dashboard
+2025-05-11 15:57:30,080 - INFO - URL: /teacher_login -> teacher_login
+2025-05-11 15:57:30,081 - INFO - URL: /teacher_dashboard -> teacher_dashboard
+2025-05-11 16:00:08,349 - DEBUG - Building SSL context
+2025-05-11 16:00:08,415 - DEBUG - Switching to SSL
+2025-05-11 16:00:08,424 - DEBUG - SSL has been enabled
+2025-05-11 16:00:08,425 - DEBUG - Starting authorization phase
+2025-05-11 16:00:08,425 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:00:08,425 - INFO - package: mysql.connector.plugins
+2025-05-11 16:00:08,426 - INFO - plugin_name: caching_sha2_password
+2025-05-11 16:00:08,426 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-11 16:00:08,426 - DEBUG - Exchanging further packets
+2025-05-11 16:00:08,426 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:00:08,428 - INFO - Successfully connected to the MySQL database.
+2025-05-11 16:00:08,428 - INFO - Successfully connected to the MySQL database.
+2025-05-11 16:00:08,430 - INFO - Serving on http://0.0.0.0:5000
+2025-05-11 16:00:13,445 - INFO - URL: /static/<path:filename> -> static
+2025-05-11 16:00:13,445 - INFO - URL: / -> index
+2025-05-11 16:00:13,446 - INFO - URL: /student_register -> student_register
+2025-05-11 16:00:13,446 - INFO - URL: /student_login -> student_login
+2025-05-11 16:00:13,446 - INFO - URL: /student_dashboard -> student_dashboard
+2025-05-11 16:00:13,448 - INFO - URL: /teacher_login -> teacher_login
+2025-05-11 16:00:13,448 - INFO - URL: /teacher_dashboard -> teacher_dashboard
+2025-05-11 16:09:36,825 - DEBUG - Building SSL context
+2025-05-11 16:09:36,886 - DEBUG - Switching to SSL
+2025-05-11 16:09:36,894 - DEBUG - SSL has been enabled
+2025-05-11 16:09:36,895 - DEBUG - Starting authorization phase
+2025-05-11 16:09:36,895 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:09:36,895 - INFO - package: mysql.connector.plugins
+2025-05-11 16:09:36,895 - INFO - plugin_name: caching_sha2_password
+2025-05-11 16:09:36,896 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-11 16:09:36,905 - DEBUG - Exchanging further packets
+2025-05-11 16:09:36,906 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:09:36,909 - INFO - Successfully connected to the MySQL database.
+2025-05-11 16:09:36,909 - INFO - Successfully connected to the MySQL database.
+2025-05-11 16:09:36,912 - INFO - Serving on http://0.0.0.0:5000
+2025-05-11 16:09:43,136 - INFO - URL: /static/<path:filename> -> static
+2025-05-11 16:09:43,138 - INFO - URL: / -> index
+2025-05-11 16:09:43,138 - INFO - URL: /student_register -> student_register
+2025-05-11 16:09:43,139 - INFO - URL: /student_login -> student_login
+2025-05-11 16:09:43,139 - INFO - URL: /student_dashboard -> student_dashboard
+2025-05-11 16:09:43,140 - INFO - URL: /teacher_login -> teacher_login
+2025-05-11 16:09:43,140 - INFO - URL: /teacher_dashboard -> teacher_dashboard
+2025-05-11 16:09:53,077 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-11 16:09:53,078 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-11 16:09:53,159 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-11 16:09:53,894 - DEBUG - Building SSL context
+2025-05-11 16:09:53,972 - DEBUG - Switching to SSL
+2025-05-11 16:09:53,982 - DEBUG - SSL has been enabled
+2025-05-11 16:09:53,984 - DEBUG - Starting authorization phase
+2025-05-11 16:09:53,987 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:09:53,987 - INFO - package: mysql.connector.plugins
+2025-05-11 16:09:53,988 - INFO - plugin_name: caching_sha2_password
+2025-05-11 16:09:53,988 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-11 16:09:53,989 - DEBUG - Exchanging further packets
+2025-05-11 16:09:53,990 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:09:53,991 - INFO - Successfully connected to the MySQL database.
+2025-05-11 16:09:53,991 - INFO - Successfully connected to the MySQL database.
+2025-05-11 16:09:53,995 - INFO - Serving on http://0.0.0.0:5000
+2025-05-11 16:10:06,083 - WARNING -  * Debugger is active!
+2025-05-11 16:10:06,099 - INFO -  * Debugger PIN: 690-503-038
+2025-05-11 16:13:14,129 - INFO -  * Detected change in 'C:\\Program Files\\Python312\\Lib\\logging\\__init__.py', reloading
+2025-05-11 16:21:57,567 - DEBUG - Building SSL context
+2025-05-11 16:21:57,631 - DEBUG - Switching to SSL
+2025-05-11 16:21:57,639 - DEBUG - SSL has been enabled
+2025-05-11 16:21:57,639 - DEBUG - Starting authorization phase
+2025-05-11 16:21:57,639 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:21:57,639 - INFO - package: mysql.connector.plugins
+2025-05-11 16:21:57,640 - INFO - plugin_name: caching_sha2_password
+2025-05-11 16:21:57,640 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-11 16:21:57,641 - DEBUG - Exchanging further packets
+2025-05-11 16:21:57,643 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:21:57,647 - INFO - Successfully connected to the MySQL database.
+2025-05-11 16:21:57,648 - INFO - Successfully connected to the MySQL database.
+2025-05-11 16:21:57,652 - INFO - Serving on http://0.0.0.0:5000
+2025-05-11 16:22:01,375 - INFO - URL: /static/<path:filename> -> static
+2025-05-11 16:22:01,376 - INFO - URL: / -> index
+2025-05-11 16:22:01,377 - INFO - URL: /student_register -> student_register
+2025-05-11 16:22:01,377 - INFO - URL: /student_login -> student_login
+2025-05-11 16:22:01,377 - INFO - URL: /student_dashboard -> student_dashboard
+2025-05-11 16:22:01,377 - INFO - URL: /teacher_login -> teacher_login
+2025-05-11 16:22:01,378 - INFO - URL: /teacher_dashboard -> teacher_dashboard
+2025-05-11 16:27:48,814 - DEBUG - Building SSL context
+2025-05-11 16:27:48,876 - DEBUG - Switching to SSL
+2025-05-11 16:27:48,883 - DEBUG - SSL has been enabled
+2025-05-11 16:27:48,883 - DEBUG - Starting authorization phase
+2025-05-11 16:27:48,883 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:27:48,883 - INFO - package: mysql.connector.plugins
+2025-05-11 16:27:48,884 - INFO - plugin_name: caching_sha2_password
+2025-05-11 16:27:48,884 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-11 16:27:48,884 - DEBUG - Exchanging further packets
+2025-05-11 16:27:48,885 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:27:48,897 - INFO - Successfully connected to the MySQL database.
+2025-05-11 16:27:48,897 - INFO - Successfully connected to the MySQL database.
+2025-05-11 16:27:48,899 - INFO - Serving on http://0.0.0.0:5000
+2025-05-11 16:27:51,924 - INFO - URL: /static/<path:filename> -> static
+2025-05-11 16:27:51,924 - INFO - URL: / -> index
+2025-05-11 16:27:51,925 - INFO - URL: /student_register -> student_register
+2025-05-11 16:27:51,925 - INFO - URL: /student_login -> student_login
+2025-05-11 16:27:51,926 - INFO - URL: /student_dashboard -> student_dashboard
+2025-05-11 16:27:51,926 - INFO - URL: /teacher_login -> teacher_login
+2025-05-11 16:27:51,926 - INFO - URL: /teacher_dashboard -> teacher_dashboard
+2025-05-11 16:32:29,640 - DEBUG - Building SSL context
+2025-05-11 16:32:29,700 - DEBUG - Switching to SSL
+2025-05-11 16:32:29,709 - DEBUG - SSL has been enabled
+2025-05-11 16:32:29,709 - DEBUG - Starting authorization phase
+2025-05-11 16:32:29,709 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:32:29,710 - INFO - package: mysql.connector.plugins
+2025-05-11 16:32:29,712 - INFO - plugin_name: caching_sha2_password
+2025-05-11 16:32:29,713 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-11 16:32:29,714 - DEBUG - Exchanging further packets
+2025-05-11 16:32:29,724 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:32:29,728 - INFO - Connected to MySQL database.
+2025-05-11 16:32:29,728 - INFO - Verified MySQL connection.
+2025-05-11 16:32:29,732 - INFO - Serving on http://0.0.0.0:5000
+2025-05-11 16:32:34,411 - INFO - URL: /static/<path:filename> -> static
+2025-05-11 16:32:34,412 - INFO - URL: / -> index
+2025-05-11 16:32:34,412 - INFO - URL: /student_register -> student_register
+2025-05-11 16:32:34,413 - INFO - URL: /student_login -> student_login
+2025-05-11 16:32:34,413 - INFO - URL: /student_dashboard -> student_dashboard
+2025-05-11 16:32:34,413 - INFO - URL: /teacher_login -> teacher_login
+2025-05-11 16:32:34,414 - INFO - URL: /teacher_dashboard -> teacher_dashboard
+2025-05-11 16:43:38,737 - DEBUG - Building SSL context
+2025-05-11 16:43:38,809 - DEBUG - Switching to SSL
+2025-05-11 16:43:38,819 - DEBUG - SSL has been enabled
+2025-05-11 16:43:38,820 - DEBUG - Starting authorization phase
+2025-05-11 16:43:38,820 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:43:38,820 - INFO - package: mysql.connector.plugins
+2025-05-11 16:43:38,820 - INFO - plugin_name: caching_sha2_password
+2025-05-11 16:43:38,820 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-11 16:43:38,821 - DEBUG - Exchanging further packets
+2025-05-11 16:43:38,822 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:43:38,826 - INFO - Connected to MySQL database.
+2025-05-11 16:43:38,827 - INFO - Verified MySQL connection.
+2025-05-11 16:43:38,836 - INFO - Serving on http://0.0.0.0:5000
+2025-05-11 16:44:49,517 - INFO - URL: /static/<path:filename> -> static
+2025-05-11 16:44:49,518 - INFO - URL: / -> index
+2025-05-11 16:44:49,518 - INFO - URL: /student_register -> student_register
+2025-05-11 16:44:49,518 - INFO - URL: /student_login -> student_login
+2025-05-11 16:44:49,518 - INFO - URL: /student_dashboard -> student_dashboard
+2025-05-11 16:44:49,519 - INFO - URL: /teacher_login -> teacher_login
+2025-05-11 16:44:49,519 - INFO - URL: /teacher_dashboard -> teacher_dashboard
+2025-05-11 16:48:38,723 - DEBUG - Building SSL context
+2025-05-11 16:48:38,872 - DEBUG - Switching to SSL
+2025-05-11 16:48:38,882 - DEBUG - SSL has been enabled
+2025-05-11 16:48:38,882 - DEBUG - Starting authorization phase
+2025-05-11 16:48:38,885 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:48:38,887 - DEBUG - Exchanging further packets
+2025-05-11 16:48:38,888 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:48:38,892 - INFO - Connected to MySQL database.
+2025-05-11 16:48:39,096 - WARNING - Failed teacher login for email: ct66@gmail.com
+2025-05-11 16:48:57,568 - DEBUG - Building SSL context
+2025-05-11 16:48:57,721 - DEBUG - Switching to SSL
+2025-05-11 16:48:57,732 - DEBUG - SSL has been enabled
+2025-05-11 16:48:57,883 - DEBUG - Starting authorization phase
+2025-05-11 16:48:57,883 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:48:57,884 - DEBUG - Exchanging further packets
+2025-05-11 16:48:57,885 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:48:57,886 - INFO - Connected to MySQL database.
+2025-05-11 16:48:57,907 - WARNING - Failed student login for email: ct66@gmail.com
+2025-05-11 16:51:20,154 - DEBUG - Building SSL context
+2025-05-11 16:51:20,343 - DEBUG - Switching to SSL
+2025-05-11 16:51:20,363 - DEBUG - SSL has been enabled
+2025-05-11 16:51:20,374 - DEBUG - Starting authorization phase
+2025-05-11 16:51:20,388 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:51:20,404 - DEBUG - Exchanging further packets
+2025-05-11 16:51:20,408 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:51:20,410 - INFO - Connected to MySQL database.
+2025-05-11 16:51:20,777 - WARNING - Failed teacher login for email: admin@example.com
+2025-05-11 16:53:52,799 - DEBUG - Building SSL context
+2025-05-11 16:53:52,906 - DEBUG - Switching to SSL
+2025-05-11 16:53:52,924 - DEBUG - SSL has been enabled
+2025-05-11 16:53:52,925 - DEBUG - Starting authorization phase
+2025-05-11 16:53:52,925 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:53:52,926 - DEBUG - Exchanging further packets
+2025-05-11 16:53:52,927 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:53:52,930 - INFO - Connected to MySQL database.
+2025-05-11 16:53:52,970 - INFO - Student registered: a
+2025-05-11 16:54:00,454 - DEBUG - Building SSL context
+2025-05-11 16:54:00,595 - DEBUG - Switching to SSL
+2025-05-11 16:54:00,605 - DEBUG - SSL has been enabled
+2025-05-11 16:54:00,606 - DEBUG - Starting authorization phase
+2025-05-11 16:54:00,608 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:54:00,611 - DEBUG - Exchanging further packets
+2025-05-11 16:54:00,694 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:54:00,708 - INFO - Connected to MySQL database.
+2025-05-11 16:54:01,248 - INFO - Student logged in: a
+2025-05-11 16:54:01,290 - DEBUG - Building SSL context
+2025-05-11 16:54:01,400 - DEBUG - Switching to SSL
+2025-05-11 16:54:01,408 - DEBUG - SSL has been enabled
+2025-05-11 16:54:01,408 - DEBUG - Starting authorization phase
+2025-05-11 16:54:01,408 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:54:01,413 - DEBUG - Exchanging further packets
+2025-05-11 16:54:01,413 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:54:01,415 - INFO - Connected to MySQL database.
+2025-05-11 16:55:02,625 - DEBUG - Building SSL context
+2025-05-11 16:55:02,795 - DEBUG - Switching to SSL
+2025-05-11 16:55:02,807 - DEBUG - SSL has been enabled
+2025-05-11 16:55:02,848 - DEBUG - Starting authorization phase
+2025-05-11 16:55:02,848 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:55:02,850 - DEBUG - Exchanging further packets
+2025-05-11 16:55:02,851 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:55:02,856 - INFO - Connected to MySQL database.
+2025-05-11 16:55:11,296 - DEBUG - Building SSL context
+2025-05-11 16:55:11,454 - DEBUG - Switching to SSL
+2025-05-11 16:55:11,467 - DEBUG - SSL has been enabled
+2025-05-11 16:55:11,563 - DEBUG - Starting authorization phase
+2025-05-11 16:55:11,563 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:55:11,566 - DEBUG - Exchanging further packets
+2025-05-11 16:55:11,566 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:55:11,568 - INFO - Connected to MySQL database.
+2025-05-11 16:55:19,333 - DEBUG - Building SSL context
+2025-05-11 16:55:19,532 - DEBUG - Switching to SSL
+2025-05-11 16:55:19,542 - DEBUG - SSL has been enabled
+2025-05-11 16:55:19,542 - DEBUG - Starting authorization phase
+2025-05-11 16:55:19,542 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:55:19,543 - DEBUG - Exchanging further packets
+2025-05-11 16:55:19,546 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:55:19,554 - INFO - Connected to MySQL database.
+2025-05-11 16:55:32,903 - DEBUG - Building SSL context
+2025-05-11 16:55:33,161 - DEBUG - Switching to SSL
+2025-05-11 16:55:33,170 - DEBUG - SSL has been enabled
+2025-05-11 16:55:33,171 - DEBUG - Starting authorization phase
+2025-05-11 16:55:33,172 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:55:33,173 - DEBUG - Exchanging further packets
+2025-05-11 16:55:33,174 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:55:33,177 - INFO - Connected to MySQL database.
+2025-05-11 16:55:50,332 - DEBUG - Building SSL context
+2025-05-11 16:55:50,483 - DEBUG - Switching to SSL
+2025-05-11 16:55:50,497 - DEBUG - SSL has been enabled
+2025-05-11 16:55:50,500 - DEBUG - Starting authorization phase
+2025-05-11 16:55:50,503 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:55:50,504 - DEBUG - Exchanging further packets
+2025-05-11 16:55:50,506 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:55:50,511 - INFO - Connected to MySQL database.
+2025-05-11 16:56:03,123 - DEBUG - Building SSL context
+2025-05-11 16:56:03,286 - DEBUG - Switching to SSL
+2025-05-11 16:56:03,296 - DEBUG - SSL has been enabled
+2025-05-11 16:56:03,297 - DEBUG - Starting authorization phase
+2025-05-11 16:56:03,300 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:56:03,309 - DEBUG - Exchanging further packets
+2025-05-11 16:56:03,309 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:56:03,409 - INFO - Connected to MySQL database.
+2025-05-11 16:56:08,214 - DEBUG - Building SSL context
+2025-05-11 16:56:08,390 - DEBUG - Switching to SSL
+2025-05-11 16:56:08,403 - DEBUG - SSL has been enabled
+2025-05-11 16:56:08,438 - DEBUG - Starting authorization phase
+2025-05-11 16:56:08,439 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:56:08,442 - DEBUG - Exchanging further packets
+2025-05-11 16:56:08,467 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:56:08,481 - INFO - Connected to MySQL database.
+2025-05-11 16:56:08,731 - DEBUG - Building SSL context
+2025-05-11 16:56:08,866 - DEBUG - Switching to SSL
+2025-05-11 16:56:08,873 - DEBUG - SSL has been enabled
+2025-05-11 16:56:08,875 - DEBUG - Starting authorization phase
+2025-05-11 16:56:08,875 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:56:08,876 - DEBUG - Exchanging further packets
+2025-05-11 16:56:08,877 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:56:08,880 - INFO - Connected to MySQL database.
+2025-05-11 16:57:13,114 - DEBUG - Building SSL context
+2025-05-11 16:57:13,293 - DEBUG - Switching to SSL
+2025-05-11 16:57:13,307 - DEBUG - SSL has been enabled
+2025-05-11 16:57:13,549 - DEBUG - Starting authorization phase
+2025-05-11 16:57:13,551 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:57:13,553 - DEBUG - Exchanging further packets
+2025-05-11 16:57:13,554 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:57:13,556 - INFO - Connected to MySQL database.
+2025-05-11 16:57:27,298 - DEBUG - Building SSL context
+2025-05-11 16:57:27,473 - DEBUG - Switching to SSL
+2025-05-11 16:57:27,484 - DEBUG - SSL has been enabled
+2025-05-11 16:57:27,484 - DEBUG - Starting authorization phase
+2025-05-11 16:57:27,486 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:57:27,489 - DEBUG - Exchanging further packets
+2025-05-11 16:57:27,503 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:57:27,505 - INFO - Connected to MySQL database.
+2025-05-11 16:57:39,145 - DEBUG - Building SSL context
+2025-05-11 16:57:39,295 - DEBUG - Switching to SSL
+2025-05-11 16:57:39,305 - DEBUG - SSL has been enabled
+2025-05-11 16:57:39,307 - DEBUG - Starting authorization phase
+2025-05-11 16:57:39,307 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:57:39,308 - DEBUG - Exchanging further packets
+2025-05-11 16:57:39,372 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:57:39,376 - INFO - Connected to MySQL database.
+2025-05-11 16:57:39,991 - DEBUG - Building SSL context
+2025-05-11 16:57:40,131 - DEBUG - Switching to SSL
+2025-05-11 16:57:40,146 - DEBUG - SSL has been enabled
+2025-05-11 16:57:40,191 - DEBUG - Starting authorization phase
+2025-05-11 16:57:40,215 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:57:40,218 - DEBUG - Exchanging further packets
+2025-05-11 16:57:40,218 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:57:40,219 - INFO - Connected to MySQL database.
+2025-05-11 16:57:56,703 - DEBUG - Building SSL context
+2025-05-11 16:57:56,966 - DEBUG - Switching to SSL
+2025-05-11 16:57:56,974 - DEBUG - SSL has been enabled
+2025-05-11 16:57:56,976 - DEBUG - Starting authorization phase
+2025-05-11 16:57:56,979 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:57:56,982 - DEBUG - Exchanging further packets
+2025-05-11 16:57:56,985 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:57:56,986 - INFO - Connected to MySQL database.
+2025-05-11 16:58:49,902 - DEBUG - Building SSL context
+2025-05-11 16:58:50,005 - DEBUG - Switching to SSL
+2025-05-11 16:58:50,013 - DEBUG - SSL has been enabled
+2025-05-11 16:58:50,015 - DEBUG - Starting authorization phase
+2025-05-11 16:58:50,015 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:58:50,016 - DEBUG - Exchanging further packets
+2025-05-11 16:58:50,017 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:58:50,019 - INFO - Connected to MySQL database.
+2025-05-11 16:58:50,314 - WARNING - Failed student login for email: ct66@gmail.com
+2025-05-11 16:58:59,970 - DEBUG - Building SSL context
+2025-05-11 16:59:00,150 - DEBUG - Switching to SSL
+2025-05-11 16:59:00,158 - DEBUG - SSL has been enabled
+2025-05-11 16:59:00,159 - DEBUG - Starting authorization phase
+2025-05-11 16:59:00,160 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:59:00,170 - DEBUG - Exchanging further packets
+2025-05-11 16:59:00,172 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:59:00,174 - INFO - Connected to MySQL database.
+2025-05-11 16:59:00,504 - INFO - Student logged in: a
+2025-05-11 16:59:00,517 - DEBUG - Building SSL context
+2025-05-11 16:59:00,630 - DEBUG - Switching to SSL
+2025-05-11 16:59:00,638 - DEBUG - SSL has been enabled
+2025-05-11 16:59:00,639 - DEBUG - Starting authorization phase
+2025-05-11 16:59:00,640 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:59:00,644 - DEBUG - Exchanging further packets
+2025-05-11 16:59:00,645 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:59:00,646 - INFO - Connected to MySQL database.
+2025-05-11 16:59:11,875 - DEBUG - Building SSL context
+2025-05-11 16:59:12,040 - DEBUG - Switching to SSL
+2025-05-11 16:59:12,053 - DEBUG - SSL has been enabled
+2025-05-11 16:59:12,053 - DEBUG - Starting authorization phase
+2025-05-11 16:59:12,055 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 16:59:12,056 - DEBUG - Exchanging further packets
+2025-05-11 16:59:12,056 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 16:59:12,058 - INFO - Connected to MySQL database.
+2025-05-11 17:08:00,885 - DEBUG - Building SSL context
+2025-05-11 17:08:00,951 - DEBUG - Switching to SSL
+2025-05-11 17:08:00,960 - DEBUG - SSL has been enabled
+2025-05-11 17:08:00,961 - DEBUG - Starting authorization phase
+2025-05-11 17:08:00,962 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 17:08:00,962 - INFO - package: mysql.connector.plugins
+2025-05-11 17:08:00,963 - INFO - plugin_name: caching_sha2_password
+2025-05-11 17:08:00,963 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-11 17:08:00,964 - DEBUG - Exchanging further packets
+2025-05-11 17:08:00,964 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 17:08:00,975 - INFO - Connected to MySQL database.
+2025-05-11 17:08:00,976 - INFO - Verified MySQL connection.
+2025-05-11 17:08:00,980 - INFO - Serving on http://0.0.0.0:5000
+2025-05-11 17:08:13,127 - INFO - URL: /static/<path:filename> -> static
+2025-05-11 17:08:13,129 - INFO - URL: / -> index
+2025-05-11 17:08:13,137 - INFO - URL: /student_register -> student_register
+2025-05-11 17:08:13,142 - INFO - URL: /student_login -> student_login
+2025-05-11 17:08:13,143 - INFO - URL: /student_dashboard -> student_dashboard
+2025-05-11 17:08:13,144 - INFO - URL: /student_logout -> student_logout
+2025-05-11 17:08:13,145 - INFO - URL: /teacher_login -> teacher_login
+2025-05-11 17:08:13,145 - INFO - URL: /teacher_dashboard -> teacher_dashboard
+2025-05-11 17:08:27,089 - DEBUG - Building SSL context
+2025-05-11 17:08:27,162 - DEBUG - Switching to SSL
+2025-05-11 17:08:27,170 - DEBUG - SSL has been enabled
+2025-05-11 17:08:27,171 - DEBUG - Starting authorization phase
+2025-05-11 17:08:27,172 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 17:08:27,173 - DEBUG - Exchanging further packets
+2025-05-11 17:08:27,174 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 17:08:27,175 - INFO - Connected to MySQL database.
+2025-05-11 17:08:27,361 - INFO - Student logged in: a
+2025-05-11 17:08:27,377 - DEBUG - Building SSL context
+2025-05-11 17:08:27,435 - DEBUG - Switching to SSL
+2025-05-11 17:08:27,441 - DEBUG - SSL has been enabled
+2025-05-11 17:08:27,441 - DEBUG - Starting authorization phase
+2025-05-11 17:08:27,441 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 17:08:27,443 - DEBUG - Exchanging further packets
+2025-05-11 17:08:27,444 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 17:08:27,445 - INFO - Connected to MySQL database.
+2025-05-11 17:08:32,846 - INFO - Student logged out successfully.
+2025-05-11 17:11:25,735 - DEBUG - Building SSL context
+2025-05-11 17:11:25,900 - DEBUG - Switching to SSL
+2025-05-11 17:11:25,912 - DEBUG - SSL has been enabled
+2025-05-11 17:11:25,912 - DEBUG - Starting authorization phase
+2025-05-11 17:11:25,915 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 17:11:25,917 - DEBUG - Exchanging further packets
+2025-05-11 17:11:25,917 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 17:11:25,925 - INFO - Connected to MySQL database.
+2025-05-11 17:11:26,278 - INFO - Student logged in: a
+2025-05-11 17:11:26,292 - DEBUG - Building SSL context
+2025-05-11 17:11:26,407 - DEBUG - Switching to SSL
+2025-05-11 17:11:26,415 - DEBUG - SSL has been enabled
+2025-05-11 17:11:26,416 - DEBUG - Starting authorization phase
+2025-05-11 17:11:26,416 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 17:11:26,418 - DEBUG - Exchanging further packets
+2025-05-11 17:11:26,423 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 17:11:26,425 - INFO - Connected to MySQL database.
+2025-05-11 17:11:37,536 - INFO - Student logged out successfully.
+2025-05-11 17:14:33,221 - DEBUG - Building SSL context
+2025-05-11 17:14:33,286 - DEBUG - Switching to SSL
+2025-05-11 17:14:33,294 - DEBUG - SSL has been enabled
+2025-05-11 17:14:33,294 - DEBUG - Starting authorization phase
+2025-05-11 17:14:33,294 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 17:14:33,296 - INFO - package: mysql.connector.plugins
+2025-05-11 17:14:33,296 - INFO - plugin_name: caching_sha2_password
+2025-05-11 17:14:33,296 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-11 17:14:33,297 - DEBUG - Exchanging further packets
+2025-05-11 17:14:33,297 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 17:14:33,299 - INFO - Connected to MySQL database.
+2025-05-11 17:14:33,300 - INFO - Verified MySQL connection.
+2025-05-11 17:14:33,304 - INFO - Serving on http://0.0.0.0:5000
+2025-05-11 17:14:47,748 - INFO - URL: /static/<path:filename> -> static
+2025-05-11 17:14:47,748 - INFO - URL: / -> index
+2025-05-11 17:14:47,755 - INFO - URL: /student_register -> student_register
+2025-05-11 17:14:47,760 - INFO - URL: /student_login -> student_login
+2025-05-11 17:14:47,780 - INFO - URL: /student_dashboard -> student_dashboard
+2025-05-11 17:14:47,781 - INFO - URL: /student_logout -> student_logout
+2025-05-11 17:14:47,782 - INFO - URL: /teacher_login -> teacher_login
+2025-05-11 17:14:47,783 - INFO - URL: /teacher_register -> teacher_register
+2025-05-11 17:14:47,784 - INFO - URL: /teacher_dashboard -> teacher_dashboard
+2025-05-11 17:27:39,217 - DEBUG - Building SSL context
+2025-05-11 17:27:39,284 - DEBUG - Switching to SSL
+2025-05-11 17:27:39,293 - DEBUG - SSL has been enabled
+2025-05-11 17:27:39,293 - DEBUG - Starting authorization phase
+2025-05-11 17:27:39,293 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 17:27:39,294 - INFO - package: mysql.connector.plugins
+2025-05-11 17:27:39,294 - INFO - plugin_name: caching_sha2_password
+2025-05-11 17:27:39,294 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-11 17:27:39,295 - DEBUG - Exchanging further packets
+2025-05-11 17:27:39,296 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 17:27:39,301 - INFO - Connected to MySQL database.
+2025-05-11 17:27:39,301 - INFO - Verified MySQL connection.
+2025-05-11 17:27:39,307 - INFO - Serving on http://0.0.0.0:5000
+2025-05-11 17:27:46,472 - INFO - URL: /static/<path:filename> -> static
+2025-05-11 17:27:46,474 - INFO - URL: / -> index
+2025-05-11 17:27:46,474 - INFO - URL: /student_register -> student_register
+2025-05-11 17:27:46,475 - INFO - URL: /student_login -> student_login
+2025-05-11 17:27:46,476 - INFO - URL: /student_dashboard -> student_dashboard
+2025-05-11 17:27:46,477 - INFO - URL: /student_logout -> student_logout
+2025-05-11 17:27:46,477 - INFO - URL: /teacher_login -> teacher_login
+2025-05-11 17:27:46,484 - INFO - URL: /teacher_register -> teacher_register
+2025-05-11 17:27:46,487 - INFO - URL: /teacher_dashboard -> teacher_dashboard
+2025-05-11 17:34:34,635 - DEBUG - Building SSL context
+2025-05-11 17:34:34,696 - DEBUG - Switching to SSL
+2025-05-11 17:34:34,703 - DEBUG - SSL has been enabled
+2025-05-11 17:34:34,704 - DEBUG - Starting authorization phase
+2025-05-11 17:34:34,704 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 17:34:34,704 - INFO - package: mysql.connector.plugins
+2025-05-11 17:34:34,704 - INFO - plugin_name: caching_sha2_password
+2025-05-11 17:34:34,706 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-11 17:34:34,706 - DEBUG - Exchanging further packets
+2025-05-11 17:34:34,707 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 17:34:34,717 - INFO - Connected to MySQL database.
+2025-05-11 17:34:34,718 - INFO - Verified MySQL connection.
+2025-05-11 17:34:34,721 - INFO - Serving on http://0.0.0.0:5000
+2025-05-11 17:34:41,773 - INFO - URL: /static/<path:filename> -> static
+2025-05-11 17:34:41,774 - INFO - URL: / -> index
+2025-05-11 17:34:41,775 - INFO - URL: /student_register -> student_register
+2025-05-11 17:34:41,778 - INFO - URL: /student_login -> student_login
+2025-05-11 17:34:41,778 - INFO - URL: /student_dashboard -> student_dashboard
+2025-05-11 17:34:41,779 - INFO - URL: /student_logout -> student_logout
+2025-05-11 17:34:41,779 - INFO - URL: /teacher_login -> teacher_login
+2025-05-11 17:34:41,779 - INFO - URL: /teacher_register -> teacher_register
+2025-05-11 17:34:41,780 - INFO - URL: /teacher_dashboard -> teacher_dashboard
+2025-05-11 18:12:11,399 - DEBUG - Building SSL context
+2025-05-11 18:12:11,464 - DEBUG - Switching to SSL
+2025-05-11 18:12:11,479 - DEBUG - SSL has been enabled
+2025-05-11 18:12:11,479 - DEBUG - Starting authorization phase
+2025-05-11 18:12:11,480 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 18:12:11,480 - INFO - package: mysql.connector.plugins
+2025-05-11 18:12:11,480 - INFO - plugin_name: caching_sha2_password
+2025-05-11 18:12:11,480 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-11 18:12:11,483 - DEBUG - Exchanging further packets
+2025-05-11 18:12:11,495 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 18:12:11,524 - INFO - Connected to MySQL database.
+2025-05-11 18:12:11,525 - INFO - Verified MySQL connection.
+2025-05-11 18:12:11,531 - INFO - Serving on http://0.0.0.0:5000
+2025-05-11 18:12:18,033 - INFO - URL: /static/<path:filename> -> static
+2025-05-11 18:12:18,033 - INFO - URL: / -> index
+2025-05-11 18:12:18,035 - INFO - URL: /student_register -> student_register
+2025-05-11 18:12:18,036 - INFO - URL: /student_login -> student_login
+2025-05-11 18:12:18,036 - INFO - URL: /student_dashboard -> student_dashboard
+2025-05-11 18:12:18,037 - INFO - URL: /student_logout -> student_logout
+2025-05-11 18:12:18,038 - INFO - URL: /teacher_login -> teacher_login
+2025-05-11 18:12:18,038 - INFO - URL: /teacher_register -> teacher_register
+2025-05-11 18:12:18,038 - INFO - URL: /teacher_dashboard -> teacher_dashboard
+2025-05-11 18:14:05,789 - DEBUG - Building SSL context
+2025-05-11 18:14:05,964 - DEBUG - Switching to SSL
+2025-05-11 18:14:05,973 - DEBUG - SSL has been enabled
+2025-05-11 18:14:05,974 - DEBUG - Starting authorization phase
+2025-05-11 18:14:05,974 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 18:14:05,977 - DEBUG - Exchanging further packets
+2025-05-11 18:14:05,978 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 18:14:05,981 - INFO - Connected to MySQL database.
+2025-05-11 18:14:06,073 - INFO - Teacher registered: sravanthi
+2025-05-11 18:14:16,950 - DEBUG - Building SSL context
+2025-05-11 18:14:17,094 - DEBUG - Switching to SSL
+2025-05-11 18:14:17,105 - DEBUG - SSL has been enabled
+2025-05-11 18:14:17,106 - DEBUG - Starting authorization phase
+2025-05-11 18:14:17,106 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 18:14:17,109 - DEBUG - Exchanging further packets
+2025-05-11 18:14:17,110 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 18:14:17,113 - INFO - Connected to MySQL database.
+2025-05-11 18:14:17,470 - INFO - Teacher logged in: sravanthi
+2025-05-11 18:14:17,529 - DEBUG - Building SSL context
+2025-05-11 18:14:17,924 - DEBUG - Switching to SSL
+2025-05-11 18:14:17,941 - DEBUG - SSL has been enabled
+2025-05-11 18:14:17,943 - DEBUG - Starting authorization phase
+2025-05-11 18:14:17,943 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 18:14:17,946 - DEBUG - Exchanging further packets
+2025-05-11 18:14:17,946 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 18:14:17,948 - INFO - Connected to MySQL database.
+2025-05-11 18:14:40,547 - DEBUG - Building SSL context
+2025-05-11 18:14:40,707 - DEBUG - Switching to SSL
+2025-05-11 18:14:40,716 - DEBUG - SSL has been enabled
+2025-05-11 18:14:40,716 - DEBUG - Starting authorization phase
+2025-05-11 18:14:40,723 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 18:14:40,725 - DEBUG - Exchanging further packets
+2025-05-11 18:14:40,726 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 18:14:40,731 - INFO - Connected to MySQL database.
+2025-05-11 18:14:50,706 - DEBUG - Building SSL context
+2025-05-11 18:14:50,849 - DEBUG - Switching to SSL
+2025-05-11 18:14:50,859 - DEBUG - SSL has been enabled
+2025-05-11 18:14:50,859 - DEBUG - Starting authorization phase
+2025-05-11 18:14:50,860 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 18:14:50,863 - DEBUG - Exchanging further packets
+2025-05-11 18:14:50,865 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 18:14:50,877 - INFO - Connected to MySQL database.
+2025-05-11 18:14:53,058 - DEBUG - Building SSL context
+2025-05-11 18:14:53,199 - DEBUG - Switching to SSL
+2025-05-11 18:14:53,210 - DEBUG - SSL has been enabled
+2025-05-11 18:14:53,211 - DEBUG - Starting authorization phase
+2025-05-11 18:14:53,212 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 18:14:53,214 - DEBUG - Exchanging further packets
+2025-05-11 18:14:53,216 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 18:14:53,228 - INFO - Connected to MySQL database.
+2025-05-11 18:15:00,675 - DEBUG - Building SSL context
+2025-05-11 18:15:00,821 - DEBUG - Switching to SSL
+2025-05-11 18:15:00,833 - DEBUG - SSL has been enabled
+2025-05-11 18:15:00,834 - DEBUG - Starting authorization phase
+2025-05-11 18:15:00,837 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 18:15:00,839 - DEBUG - Exchanging further packets
+2025-05-11 18:15:00,839 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 18:15:00,841 - INFO - Connected to MySQL database.
+2025-05-11 18:24:24,822 - DEBUG - Building SSL context
+2025-05-11 18:24:24,886 - DEBUG - Switching to SSL
+2025-05-11 18:24:24,893 - DEBUG - SSL has been enabled
+2025-05-11 18:24:24,893 - DEBUG - Starting authorization phase
+2025-05-11 18:24:24,893 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 18:24:24,894 - INFO - package: mysql.connector.plugins
+2025-05-11 18:24:24,894 - INFO - plugin_name: caching_sha2_password
+2025-05-11 18:24:24,894 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-11 18:24:24,895 - DEBUG - Exchanging further packets
+2025-05-11 18:24:24,896 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 18:24:24,905 - INFO - Connected to MySQL database.
+2025-05-11 18:24:24,910 - INFO - Verified MySQL connection.
+2025-05-11 18:24:24,912 - INFO - Serving on http://0.0.0.0:5000
+2025-05-11 18:24:29,862 - INFO - URL: /static/<path:filename> -> static
+2025-05-11 18:24:29,862 - INFO - URL: / -> index
+2025-05-11 18:24:29,863 - INFO - URL: /student_register -> student_register
+2025-05-11 18:24:29,863 - INFO - URL: /student_login -> student_login
+2025-05-11 18:24:29,863 - INFO - URL: /student_dashboard -> student_dashboard
+2025-05-11 18:24:29,865 - INFO - URL: /student_logout -> student_logout
+2025-05-11 18:24:29,865 - INFO - URL: /teacher_login -> teacher_login
+2025-05-11 18:24:29,866 - INFO - URL: /teacher_register -> teacher_register
+2025-05-11 18:24:29,866 - INFO - URL: /teacher_dashboard -> teacher_dashboard
+2025-05-11 18:24:29,866 - INFO - URL: /teacher_logout -> teacher_logout
+2025-05-11 18:24:29,870 - DEBUG - Building SSL context
+2025-05-11 18:24:29,991 - DEBUG - Switching to SSL
+2025-05-11 18:24:30,001 - DEBUG - SSL has been enabled
+2025-05-11 18:24:30,002 - DEBUG - Starting authorization phase
+2025-05-11 18:24:30,002 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 18:24:30,003 - DEBUG - Exchanging further packets
+2025-05-11 18:24:30,003 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 18:24:30,005 - INFO - Connected to MySQL database.
+2025-05-11 18:24:33,754 - INFO - Teacher logged out successfully.
+2025-05-11 18:24:55,420 - DEBUG - Building SSL context
+2025-05-11 18:24:55,554 - DEBUG - Switching to SSL
+2025-05-11 18:24:55,570 - DEBUG - SSL has been enabled
+2025-05-11 18:24:55,571 - DEBUG - Starting authorization phase
+2025-05-11 18:24:55,572 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 18:24:55,574 - DEBUG - Exchanging further packets
+2025-05-11 18:24:55,574 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 18:24:55,577 - INFO - Connected to MySQL database.
+2025-05-11 18:24:56,016 - INFO - Student logged in: a
+2025-05-11 18:24:56,040 - DEBUG - Building SSL context
+2025-05-11 18:24:56,160 - DEBUG - Switching to SSL
+2025-05-11 18:24:56,169 - DEBUG - SSL has been enabled
+2025-05-11 18:24:56,170 - DEBUG - Starting authorization phase
+2025-05-11 18:24:56,171 - DEBUG - The provided initial strategy is caching_sha2_password
+2025-05-11 18:24:56,173 - DEBUG - Exchanging further packets
+2025-05-11 18:24:56,173 - DEBUG - caching_sha2_password completed succesfully
+2025-05-11 18:24:56,175 - INFO - Connected to MySQL database.
+2025-05-11 18:24:59,803 - INFO - Student logged out successfully.

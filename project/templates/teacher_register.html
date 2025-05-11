@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Teacher Register</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+    <div class="form-container">
+        <div class="form-card">
+            <div class="form-header">
+                <h4>Teacher Registration</h4>
+            </div>
+            <div class="form-body">
+                <form method="POST">
+                    <div class="form-group">
+                        <label for="name">Full Name</label>
+                        <input type="text" id="name" name="name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="password">Password</label>
+                        <input type="password" id="password" name="password" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="code">Teacher Code</label>
+                        <input type="text" id="code" name="code" required>
+                    </div>
+                    <button type="submit" class="submit-btn">Register</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

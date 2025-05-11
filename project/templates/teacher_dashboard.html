@@ -1,0 +1,59 @@
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+  <meta charset="UTF-8" />  
+  <meta name="viewport" content="width=device-width, initial-scale=1" />  
+  <title>Teacher Dashboard</title>  
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet" />  
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />  
+</head>  
+<body>  
+  <div class="container" style="max-width:1000px; padding-top:50px;">  
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <h2>Welcome, {{ session['teacher_name'] }}</h2>
+      <a href="{{ url_for('teacher_logout') }}" class="btn" style="background: #dc3545; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Logout</a>
+    </div>
+
+    <h3 style="margin-top:30px;">Mark Student Attendance</h3>  
+    <form method="POST" style="margin-top:20px;">  
+      <label for="student_id">Select Student:</label>  
+      <select name="student_id" required style="padding:10px; border-radius:8px; border:1px solid #ccc; width:100%;">  
+        {% for student in students %}  
+        <option value="{{ student[0] }}">{{ student[1] }} ({{ student[2] }})</option>  
+        {% endfor %}  
+      </select>  
+
+      <label for="date" style="margin-top:20px; display:inline-block;">Date:</label>  
+      <input type="date" name="date" required style="padding:10px; border-radius:8px; border:1px solid #ccc; width:100%;"/>  
+
+      <label for="status" style="margin-top:20px; display:inline-block;">Status:</label>  
+      <select name="status" required style="padding:10px; border-radius:8px; border:1px solid #ccc; width:100%;">  
+        <option value="Present">Present</option>  
+        <option value="Absent">Absent</option>  
+      </select>  
+
+      <button type="submit" class="btn" style="margin-top:20px;">Mark Attendance</button>  
+    </form>  
+
+    <h3 style="margin-top:50px;">Attendance Records</h3>  
+    <table>  
+      <thead>  
+        <tr>  
+          <th>Student Name</th>  
+          <th>Date</th>  
+          <th>Status</th>  
+        </tr>  
+      </thead>  
+      <tbody>  
+        {% for name, date, status, attendance_id in records %}  
+        <tr>  
+          <td>{{ name }}</td>  
+          <td>{{ date }}</td>  
+          <td>{{ status }}</td>  
+        </tr>  
+        {% endfor %}  
+      </tbody>  
+    </table>  
+  </div>  
+</body>  
+</html>
